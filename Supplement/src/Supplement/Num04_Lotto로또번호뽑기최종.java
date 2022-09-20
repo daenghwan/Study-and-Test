@@ -125,5 +125,5 @@ public class Num04_Lotto로또번호뽑기최종 {
   }
 }
 
-//glgl
+
 

@@ -1,4 +1,4 @@
-package keyoske;
+package ¸Ş¸ğÀå;
 
 public class LoginVO {
 		private String id;
